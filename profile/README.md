@@ -4,7 +4,7 @@
 
 ## Introduction
 
-Sera is an open-source Network Orchestration Framework (NOF) designed to simplify the way you manage your security infrastructure. Sera empowers users and organizations to automate and enhance their network operations seamlessly. Whether integrating with existing security tools or developing custom solutions, Sera offers a flexible and user-friendly platform for all your network management needs.
+Sera is an open-source Network Orchestration Framework (NOF) designed to simplify the way you manage your infrastructure. Sera empowers users and organizations to automate and enhance their network operations seamlessly. Whether integrating with existing security tools or developing custom solutions, Sera offers a flexible and user-friendly platform for all your network management needs.
 
 ## Features
 
