@@ -16,7 +16,7 @@ Sera is an open-source Network Orchestration Framework (NOF) designed to simplif
 
 ## Documentation
 
-For detailed documentation, visit our [Documentation Page](link-to-documentation).
+For detailed documentation, visit our [Documentation Page](https://docs.sera.network).
 
 ## Contributing
 
@@ -24,16 +24,11 @@ We welcome contributions from the community! Please read our [Contributing Guide
 
 ## License
 
-Sera is released under the [MIT License](link-to-license).
+Sera is released under the [GPL 2.0](link-to-license).
 
 ## Support
 
-Need help? Join our [Community Forum](link-to-forum) or submit an issue on our [GitHub Issues Page](link-to-issues).
-
-## Stay Updated
-
-- **Twitter**: Follow us on Twitter [@SeraFramework](link-to-twitter)
-- **Newsletter**: Subscribe to our newsletter for the latest updates (link-to-newsletter)
+Need help? Join our [Community Slack](https://join.slack.com/t/sera-2vi8237/shared_invite/zt-2o7699qit-jRodMBC199bQzafCy4bj1Q) or submit an issue on our [GitHub Issues Page](https://github.com/Sera-ai/.github/projects).
 
 ---
 
